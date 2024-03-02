@@ -3,11 +3,13 @@
 
 # :wolf: Lobo 
 
-  Site pessoal de portfolio / currículo
+  Site fictício de portfolio / currículo
+  
+  (Exercício do curso de HTML e CSS para iniciantes - Origamid)
 
-  Nele foram aplicados HTML semântico, navegação no menu por scroll, e responsividade usando media queries.
+  :heavy_check_mark: Nele foram aplicados: HTML semântico, navegação no menu por scroll, responsividade usando media queries, entre outros.
 
-  Exercício do curso de HTML e CSS para iniciantes - Origamid
+  :link: Acesse o projeto [por aqui](https://lobo.vercel.app/).
   <br>
   <br>
 
