@@ -9,7 +9,7 @@
 
   :heavy_check_mark: Nele foram aplicados: HTML semântico, navegação no menu por scroll, responsividade usando media queries, entre outros.
 
-  :link: Acesse o projeto [por aqui](https://lobo.vercel.app/).
+  :link: Acesse o projeto [por aqui](https://brunacdp.github.io/lobo/)).
   <br>
   <br>
 
